@@ -6,10 +6,10 @@
     new_window: true
 - links:
   - name: LinkedIn
-    link: https://linkedin.com
+    link: https://linkedin.com/keydra
     new_window: true
     social_icon: LinkedIn
   - name: Twitter
-    link: https://twitter.com
+    link: https://twitter.com/keydracom
     social_icon: Twitter
     new_window: true
